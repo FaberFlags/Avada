@@ -170,6 +170,7 @@
 			$prev_post_year = $post_year;
 			$post_count++;
 			endwhile;
+			// CECILIA KOMMENTAR TEST
 			?>
 		</div>
 		<?php themefusion_pagination($pages = '', $range = 2); ?>
